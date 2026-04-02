@@ -36,7 +36,7 @@ For more installation options, uninstall steps, and troubleshooting, see the [se
     **WinGet (Windows):**
     ```powershell
     winget install Anthropic.ClaudeCode
-    ```
+    ```,
 
     **NPM (Deprecated):**
     ```bash
